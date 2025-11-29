@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sql on Rafael Sofi-zada</title>
-    <link>https://dequery.io/tags/sql/</link>
+    <link>https://blog.dequery.io/tags/sql/</link>
     <description>Recent content in Sql on Rafael Sofi-zada</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Apr 2025 15:49:05 +0200</lastBuildDate>
-    <atom:link href="https://dequery.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.dequery.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Postgres: disable, reenable and revalidate foreign key constraints</title>
-      <link>https://dequery.io/posts/2025-04-16-pg_constraint_validation/</link>
+      <link>https://blog.dequery.io/posts/2025-04-16-pg_constraint_validation/</link>
       <pubDate>Wed, 16 Apr 2025 15:49:05 +0200</pubDate>
-      <guid>https://dequery.io/posts/2025-04-16-pg_constraint_validation/</guid>
+      <guid>https://blog.dequery.io/posts/2025-04-16-pg_constraint_validation/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Why would someone need to do this?&lt;/li&gt;&#xA;&lt;li&gt;How to toggle foreign key constraints, without &lt;code&gt;TRIGGER ALL&lt;/code&gt;?&lt;/li&gt;&#xA;&lt;li&gt;How to validate constraints after reenabling them?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
     </item>
   </channel>

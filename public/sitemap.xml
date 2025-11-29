@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dequery.io/</loc>
+    <loc>https://blog.dequery.io/</loc>
     <lastmod>2025-04-16T15:49:05+02:00</lastmod>
   </url><url>
-    <loc>https://dequery.io/tags/postgres/</loc>
+    <loc>https://blog.dequery.io/tags/postgres/</loc>
     <lastmod>2025-04-16T15:49:05+02:00</lastmod>
   </url><url>
-    <loc>https://dequery.io/posts/2025-04-16-pg_constraint_validation/</loc>
+    <loc>https://blog.dequery.io/posts/2025-04-16-pg_constraint_validation/</loc>
     <lastmod>2025-04-16T15:49:05+02:00</lastmod>
   </url><url>
-    <loc>https://dequery.io/posts/</loc>
+    <loc>https://blog.dequery.io/posts/</loc>
     <lastmod>2025-04-16T15:49:05+02:00</lastmod>
   </url><url>
-    <loc>https://dequery.io/tags/sql/</loc>
+    <loc>https://blog.dequery.io/tags/sql/</loc>
     <lastmod>2025-04-16T15:49:05+02:00</lastmod>
   </url><url>
-    <loc>https://dequery.io/tags/</loc>
+    <loc>https://blog.dequery.io/tags/</loc>
     <lastmod>2025-04-16T15:49:05+02:00</lastmod>
   </url>
 </urlset>
