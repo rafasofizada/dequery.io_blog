@@ -1,4 +1,4 @@
-baseURL = 'https://dequery.io'
+baseURL = 'https://blog.dequery.io'
 languageCode = 'en-us'
 title = 'Rafael Sofi-zada'
 theme = 'typo'
