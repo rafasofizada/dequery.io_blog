@@ -6,8 +6,8 @@ summary: >
   - How to toggle foreign key constraints, without `TRIGGER ALL`?
   
   - How to validate constraints after reenabling them?
-date: 2025-04-16T15:49:05+02:00
-slug: 2025-04-16-pg_constraint_validation
+date: 2026-04-16T15:49:05+02:00
+slug: 2026-04-16-pg_constraint_validation
 type: posts
 draft: false
 categories:
