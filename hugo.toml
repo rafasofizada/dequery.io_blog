@@ -17,7 +17,7 @@ tag = 'tags'
 description = "Blog about database development from dequery.io, world's first SQL debugger."
 
 # Appearance settings
-theme = 'auto'
+theme = 'light'
 colorPalette = 'default'
 hideHeader = false
 
